@@ -1,0 +1,26 @@
+{
+  "name": "مدیریت مربیان مرکز ۸",
+  "short_name": "مربیان مرکز ۸",
+  "description": "پیگیری دوره‌ها و مربیان مرکز فنی و حرفه‌ای شماره ۸ شهید سیدابراهیم رئیسی - زندان وکیل‌آباد مشهد",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1e40af",
+  "orientation": "portrait",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
